@@ -70,7 +70,7 @@ public final class Area {
     }
 
     /**
-    * Calculate the surface area of a pyramid with a square base.
+    * Calculate the surface area of a pyramid with a square base
     *
     * @param sideLength side length of the square base
     * @param slantHeight slant height of the pyramid
